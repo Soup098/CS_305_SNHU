@@ -4,10 +4,10 @@ Repo for Software Security course
 I have been using this repo to maintain the majority of my course work throughout the course.
 
 Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
-  -The client, Artemis financial, is a financial institution that needed a solution to maintaining secure transactions both foreign and domestic.
+  --The client, Artemis financial, is a financial institution that needed a solution to maintaining secure transactions both foreign and domestic.
   
 What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
-  -I found the dependancy checker tool to be particularly interesting and fun to use. It was cool to go through and learn what all of the errors were and how to deal with them coding securely is paramaount as it makes both you and your clients   able to have confidence that there data will not be breached, and they can work together toward a secure application execution.
+  --I found the dependancy checker tool to be particularly interesting and fun to use. It was cool to go through and learn what all of the errors were and how to deal with them coding securely is paramaount as it makes both you and your clients   able to have confidence that there data will not be breached, and they can work together toward a secure application execution.
   
 Which part of the vulnerability assessment was challenging or helpful to you?
   -It was just a lot of reading and trying to understand what the different parts of the assessment meant.
